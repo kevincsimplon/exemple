@@ -1,0 +1,10 @@
+/* widget admin*/
+div.widget-liquid-left {
+    width: 30%!important;
+}
+div#widgets-right .sidebars-column-1, div#widgets-right .sidebars-column-2 {
+    max-width: initial!important;
+}
+div.widget-liquid-right {
+    width: 65%!important;
+}
